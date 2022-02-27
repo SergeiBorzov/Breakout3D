@@ -1,3 +1,6 @@
+Simple 3d version of the Breakout game made without game engines
+![](https://github.com/SergeiBorzov/Breakout3D/blob/master/images/screenshot_1.png)
+![](https://github.com/SergeiBorzov/Breakout3D/blob/master/images/screenshot_2.png)
 
 Textures for materials are taken from https://freepbr.com/
 
